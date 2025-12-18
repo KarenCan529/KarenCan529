@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hola, soy Karen Can
+# Hola 👋, soy Karen Can 
 
 ### Frontend Developer & UI Designer
 Mi enfoque principal y pasión está en el Diseño Web y el Frontend. Disfruto creando interfaces atractivas y funcionales con Figma, HTML, CSS y JavaScript.
