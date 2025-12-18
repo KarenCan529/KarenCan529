@@ -25,8 +25,3 @@ Aunque mi prioridad es el diseño, tengo bases en Backend y desarrollo de escrit
 * **Aplicaciones de Escritorio:** Desarrollo de software en C# y WPF.
 * **Sistema de Gestión de Zoológico:** Backend funcional realizado en PHP (CodeIgniter 3).
 
----
-
-### Mis Estadísticas de GitHub
-
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=KarenCan529&show_icons=true&theme=radical&hide_rank=true)
